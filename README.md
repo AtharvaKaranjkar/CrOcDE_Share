@@ -1,4 +1,4 @@
-# Mini-GitLab
+# CrOcDE Share
 
 A lightweight code-sharing platform built with **PHP + MySQL** on XAMPP. Inspired by GitLab, scaled down to a college DBMS project showcasing normalization, transactions, triggers, stored procedures, views, recursive CTEs, window functions, and more.
 
